@@ -1,2 +1,2 @@
-rootProject.name = "Kotlin Base Nativo Agenda"
+rootProject.name = "Kotlin Practise Native Calendar"
 include ':app'

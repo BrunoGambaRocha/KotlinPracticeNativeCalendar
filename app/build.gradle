@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "br.com.brunoti.cursos.dio.kotlinbasenativoagenda"
+        applicationId "br.com.brunoti.cursos.dio.kotlinpractisenativecalendar"
         minSdkVersion 23
         targetSdkVersion 30
         versionCode 1
@@ -29,6 +29,9 @@ android {
     }
     kotlinOptions {
         jvmTarget = '1.8'
+    }
+    buildFeatures {
+        viewBinding = true
     }
 }
 

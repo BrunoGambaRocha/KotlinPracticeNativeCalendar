@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Kotlin Base Nativo Agenda</string>
+    <string name="app_name">Kotlin Practise Native Calendar</string>
+    <string name="txtTitle">Título</string>
+    <string name="txtDescription">Descrição</string>
+    <string name="txtPlace">Local</string>
+    <string name="txtGuestEmail">Emails Convidados (separar por ,)</string>
+    <string name="txtStartDate">Data Início</string>
+    <string name="txtStartTime">Hora Início</string>
+    <string name="txtEndDate">Data Término</string>
+    <string name="txtEndTime">Hora Término</string>
+    <string name="txtReminder">Lembrete (minutos)</string>
+    <string name="txtSetEvent">Definir Evento</string>
 </resources>

@@ -1,4 +1,4 @@
-package br.com.brunoti.cursos.dio.kotlinbasenativoagenda
+package br.com.brunoti.cursos.dio.kotlinpractisenativecalendar
 
 import org.junit.Test
 
