@@ -1,4 +1,4 @@
-# Kotlin Practise Native Calendar
+# Kotlin Practice Native Calendar
 
 <img src="screenshot.png"/>
 
